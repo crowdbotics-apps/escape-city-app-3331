@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT escape_city_app_3331.wsgi:application
